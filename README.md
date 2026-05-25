@@ -2,7 +2,7 @@
 
 
 
-\## **TDA-Based Imputation Quality Evaluator**
+\# **TDA-Based Imputation Quality Evaluator**
 
 
 A Shiny for Python dashboard for evaluating missing data imputation quality using Topological Data Analysis (TDA).
