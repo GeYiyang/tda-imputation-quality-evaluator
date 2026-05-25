@@ -1,4 +1,4 @@
-!\[Dashboard Preview](dashboard\_preview.png)
+![Dashboard Preview](dashboard\_preview.png)
 
 
 
