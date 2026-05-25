@@ -28,7 +28,7 @@ This repository provides the standalone dashboard implementation of the broader 
 
 \- TDA-based topology comparison
 
-\- Permutation testing pipeline
+\- Whole pipeline
 
 \- Real-time monitoring dashboard
 
@@ -102,17 +102,9 @@ The app will:
 
 \### Complete Case Dataset
 
-\- CSV format
-
-\- numeric features only
-
 
 
 \### Imputed Dataset
-
-\- CSV format
-
-\- same feature structure as complete dataset
 
 
 
