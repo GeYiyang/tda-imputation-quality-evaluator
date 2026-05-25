@@ -1,0 +1,12 @@
+shiny
+pandas
+numpy
+matplotlib
+scikit-learn
+scipy
+networkx
+gudhi
+joblib
+watchfiles
+uvicorn
+jinja2
