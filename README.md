@@ -2,7 +2,7 @@
 
 
 
-\# **TDA-Based Imputation Quality Evaluator**
+\## **TDA-Based Imputation Quality Evaluator**
 
 
 A Shiny for Python dashboard for evaluating missing data imputation quality using Topological Data Analysis (TDA).
@@ -14,7 +14,7 @@ This repository provides the standalone dashboard implementation of the broader 
 \---
 
 
-\ **Features**
+\## **Features**
 
 
 - Upload complete-case and imputed datasets
@@ -35,11 +35,11 @@ This repository provides the standalone dashboard implementation of the broader 
 \---
 
 
-\ **Quick Start**
+\## **Quick Start**
 
 
 
-\ **1. Download the project**
+\## **1. Download the project**
 
 
 Click:
@@ -54,7 +54,7 @@ Extract the folder to your computer.
 \---
 
 
-\ **2. Launch the app**
+\## **2. Launch the app**
 
 
 Double click:
@@ -77,14 +77,14 @@ The app will:
 \---
 
 
-\ **Required Input Files**
+\## **Required Input Files**
 
 
-\ **Complete Case Dataset**
+\## **Complete Case Dataset**
 - Currently supported input format: CSV
 - May contain mixed variable types
 
-\ **Imputed Dataset**
+\## **Imputed Dataset**
 - Currently supported input format: CSV
 - Should have the same feature structure as the complete-case dataset
 
@@ -92,7 +92,7 @@ The app will:
 \---
 
 
-\ **Main Technologies**
+\## **Main Technologies**
 
 
 - Python Shiny
@@ -110,7 +110,7 @@ The app will:
 \---
 
 
-\ **Author**
+\## **Author**
 
 
 Yiyang Ge
@@ -122,7 +122,7 @@ King's College London
 \---
 
 
-\ **Computational Notes**
+\## **Computational Notes**
 
 This pipeline can be computationally intensive, particularly when using:
 
@@ -140,7 +140,7 @@ For initial testing, users are encouraged to begin with:
 
 \---
 
-\## Notes
+\## **Notes**
 
 
 This tool is intended for research and methodological evaluation purposes.
