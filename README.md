@@ -101,11 +101,12 @@ The app will:
 
 
 \### Complete Case Dataset
-
-
+- Currently supported input format: CSV
+- May contain mixed variable types
 
 \### Imputed Dataset
-
+- Currently supported input format: CSV
+- Should have the same feature structure as the complete-case dataset
 
 
 \---
