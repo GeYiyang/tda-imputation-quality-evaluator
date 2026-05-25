@@ -22,19 +22,19 @@ This repository provides the standalone dashboard implementation of the broader 
 
 
 
-\- Upload complete-case and imputed datasets
+- Upload complete-case and imputed datasets
 
-\- Mapper graph visualization
+- Mapper graph visualization
 
-\- TDA-based topology comparison
+- TDA-based topology comparison
 
-\- Whole pipeline
+- Whole pipeline
 
-\- Real-time monitoring dashboard
+- Real-time monitoring dashboard
 
-\- p-value distribution analysis
+- p-value distribution analysis
 
-\- Significance summary statistics
+- Significance summary statistics
 
 
 
@@ -80,24 +80,19 @@ Start\_App.bat
 
 The app will:
 
+- create a virtual environment automatically
 
+- install dependencies automatically
 
-\- create a virtual environment automatically
+- launch the local dashboard
 
-\- install dependencies automatically
-
-\- launch the local dashboard
-
-\- open the browser automatically
-
-
+- open the browser automatically
 
 \---
 
 
 
 \## Required Input Files
-
 
 
 \### Complete Case Dataset
@@ -108,51 +103,40 @@ The app will:
 - Currently supported input format: CSV
 - Should have the same feature structure as the complete-case dataset
 
-
 \---
-
 
 
 \## Main Technologies
 
 
+- Python Shiny
 
-\- Python Shiny
+- GUDHI
 
-\- GUDHI
+- scikit-learn
 
-\- scikit-learn
+- NetworkX
 
-\- NetworkX
+- Joblib
 
-\- Joblib
-
-\- Topological Data Analysis (TDA)
-
-
+- Topological Data Analysis (TDA)
 
 \---
-
 
 
 \## Author
 
 
-
 Yiyang Ge
-
 
 
 King's College London
 
 
-
 \---
 
 
-
 \## Notes
-
 
 
 This tool is intended for research and methodological evaluation purposes.
