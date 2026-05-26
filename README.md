@@ -51,6 +51,7 @@ The app will:
 - launch the local dashboard
 - open the browser automatically
 
+Notes: GUDHI installation may require additional build tools on some systems.
 ---
 
 ## Required Input Files
