@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# app.py — Imputation Quality Evaluator (Shiny for Python)
+# app.py — TDAssure (Shiny for Python)
 # - Matplotlib backend forced to Agg
 # - Mapper & Pipeline split; cached mapper figures
 # - tda_core calls with safe fallbacks (build_mapper, preprocess_filters_single, etc.)
@@ -342,7 +342,7 @@ app_ui = ui.page_fluid(
         }
         """
     )),
-    ui.h2("TDA-Based Imputation Quality Evaluator"),
+    ui.h2("TDAssure"),
 
     ui.layout_sidebar(
         ui.sidebar(
