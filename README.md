@@ -59,13 +59,11 @@ The app will:
 
 - Currently supported input format: CSV
 - May contain mixed variable types
-- Numeric features are automatically selected for Mapper construction and topological comparison
 
 ### Imputed Dataset
 
 - Currently supported input format: CSV
 - Should have the same feature structure as the complete-case dataset
-- Numeric features are automatically selected for Mapper construction and topological comparison
 
 ---
 
