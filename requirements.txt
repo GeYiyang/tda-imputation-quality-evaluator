@@ -10,3 +10,5 @@ joblib
 watchfiles
 uvicorn
 jinja2
+pyarrow
+plotly
