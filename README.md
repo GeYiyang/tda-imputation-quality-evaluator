@@ -80,14 +80,10 @@ Notes: GUDHI installation may require additional build tools on some systems.
 
 ---
 
-## Developer
+## Authors
 
 Dr Yiyang Ge  
 King's College London
-
----
-
-## Supervision
 
 Dr Raquel Iniesta  
 King's College London
