@@ -4,7 +4,7 @@
 
 # TDAssure
 
-### Assuring reliable missing data imputation through the shape of your data
+### Assuring Reliable Missing Data Imputation Through the Shape of Your Data
 
 ![Dashboard Preview](dashboard_preview_01.png)
 
