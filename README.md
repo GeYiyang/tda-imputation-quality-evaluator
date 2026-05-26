@@ -1,8 +1,12 @@
-![Dashboard Preview](dashboard\_preview.png)
+<p align="center">
+  <img src="tdassure_logo.png" width="220">
+</p>
 
+# TDAssure
 
+### Assuring reliable missing data imputation through the shape of your data
 
-\## **TDA-Based Imputation Quality Evaluator**
+![Dashboard Preview](dashboard_preview.png)
 
 
 A Shiny for Python dashboard for evaluating missing data imputation quality using Topological Data Analysis (TDA).
