@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="tdassure_logo.png" width="220">
+  <img src="TDAssure.png" width="220">
 </p>
 
 # TDAssure
