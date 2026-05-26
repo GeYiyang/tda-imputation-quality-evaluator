@@ -115,10 +115,22 @@ The app will:
 \---
 
 
-\## **Author**
+\## **Developer**
 
 
-Yiyang Ge
+Dr Yiyang Ge
+
+
+King's College London
+
+
+\---
+
+
+\## **Supervision**
+
+
+Dr Raquel Iniesta  
 
 
 King's College London
