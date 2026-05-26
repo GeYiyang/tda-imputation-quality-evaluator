@@ -6,7 +6,7 @@
 
 ### Assuring reliable missing data imputation through the shape of your data
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview_01.png)
 
 A Shiny for Python dashboard for evaluating missing data imputation quality using Topological Data Analysis (TDA).
 
