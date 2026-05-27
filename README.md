@@ -53,6 +53,12 @@ The app will:
 
 Notes: GUDHI installation may require additional build tools on some systems.
 
+## Documentation
+
+Additional usage instructions and practical guidance are available in:
+
+- [User Guide](User_Guide.md)
+
 ---
 
 ## Required Input Files
