@@ -59,17 +59,13 @@ When provided, the dashboard can display:
 
 Uploading the raw dataset is optional and is not required for running the main TDA comparison pipeline.
 
-### Complete-Case Dataset
+### Complete Case Dataset
 
 The complete-case dataset refers to the subset of the original raw dataset that contains no missing values.
-
-It is used as the reference dataset for comparison because all selected records are fully observed.
 
 ### Imputed Dataset
 
 The imputed dataset refers to the part of the original dataset that contained missing values and has subsequently been completed using an imputation method.
-
-It is compared against the complete-case dataset to assess whether the imputation preserves the overall data structure.
 
 ### Data Requirements
 
